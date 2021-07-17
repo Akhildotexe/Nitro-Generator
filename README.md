@@ -15,7 +15,8 @@ some basic cmds.
 4. !stop - stops generating codes.
 
 
-#examples
+
+# examples
 ** start and stop cmd **
 ![examples](https://user-images.githubusercontent.com/60161763/126040770-b3035044-1419-439d-b758-6373c98c11d6.png)
 
