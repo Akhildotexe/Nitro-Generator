@@ -1,9 +1,13 @@
-Yo this is just a basic discord.js Nitro Generator  i made cause i was bored enjoy lmao.
+This Is Just A Basic Discord.js Nitro Generator I Made Enjoy!!
 
  **Prefix** `!`
 
-Bot Invite Link `https://discord.com/api/oauth2/authorize?client_id=840016471367090226&permissions=8&scope=bot`
- 
+Bot Invite Link   https://discord.com/api/oauth2/authorize?client_id=840016471367090226&permissions=8&scope=bot
+
+                        This Is Even Made For People Who Dont Know How To Code. Aka Setup for Dummies lol.
+                        
+                        
+                                   Feel Free To DM me For Any Questions @akhil.daSimpツ#0705
 ### Table of contents
 1. [Setup](#setup)
 2. [Invite Link](#invite)
@@ -35,8 +39,7 @@ Setup with pics.
 
 
 # credits
-**Made By`akhil.daSimpツ#0705`**
-Feel Free To DM me For Any Questions
+**Made By `akhil.daSimpツ#0705` Feel Free To DM me For Any Questions**
 
 
 
