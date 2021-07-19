@@ -7,7 +7,7 @@ Bot Invite Link   https://discord.com/api/oauth2/authorize?client_id=84001647136
                         This Is Even Made For People Who Dont Know How To Code. Aka Setup for Dummies lol.
                         
                         
-                                   Feel Free To DM me For Any Questions @akhil.daSimpツ#0705
+                                Feel Free To DM me For Any Questions @akhil.daSimpツ#0705
 ### Table of contents
 1. [Setup](#setup)
 2. [Invite Link](#invite)
