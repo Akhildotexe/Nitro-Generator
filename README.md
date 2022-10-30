@@ -39,7 +39,7 @@ Setup with pics.
 
 
 # credits
-**Made By `akhil.daSimpツ#0705` Feel Free To DM me For Any Questions**
+**Made By `akhil?#9292` Feel Free To DM me For Any Questions**
 
 
 
